@@ -7,6 +7,9 @@ gem 'rails', '5.0.0'
 # Use Font Awesome sass gem for adding icons
 gem 'font-awesome-sass', '4.7.0'
 
+# Use Hirb gem for better console data presentation
+gem 'hirb', '0.7.3'
+
 # Use Puma as the app server
 gem 'puma', '3.4.0'
 # Use SCSS for stylesheets
