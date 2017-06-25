@@ -4,6 +4,9 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '5.0.0'
 
+# Use Font Awesome sass gem for adding icons
+gem 'font-awesome-sass', '4.7.0'
+
 # Use Puma as the app server
 gem 'puma', '3.4.0'
 # Use SCSS for stylesheets
